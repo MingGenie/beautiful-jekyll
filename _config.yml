@@ -7,7 +7,7 @@ title: My lab
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Myeongjin Lee
 
 # --- List of links in the navigation bar --- #
 
@@ -42,7 +42,7 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
-  rss: true
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
